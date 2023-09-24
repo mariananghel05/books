@@ -13,9 +13,9 @@
                 $add = git add .
                 $commit = git commit -m "auto"
                 $push = git push -u origin master
-                echo $add
-                echo $commit
-                echo $push
+                Add-content $add -value $logline
+                Add-content $commit -value $logline
+                Add-content $push -value $logline
               }    
 ### DECIDE WHICH EVENTS SHOULD BE WATCHED 
     Register-ObjectEvent $watcher "Created" -Action $action
