@@ -6,3 +6,4 @@
 09/24/2023 20:36:39, Created, C:\Users\Nikolas\Desktop\books\.git\index.lock
 09/24/2023 20:36:39, Changed, C:\Users\Nikolas\Desktop\books\.git\objects\e8\84e9d3ed0af0b7ef3239e0aa85d33d9738a6eb
 09/24/2023 20:36:39, Changed, C:\Users\Nikolas\Desktop\books\.git\objects\d9\554f2ca741b934aa39105962ae73efba5738a5
+09/24/2023 20:36:44, Changed, C:\Users\Nikolas\Desktop\books\.git\objects\06
