@@ -2,6 +2,43 @@ video: https://www.youtube.com/watch?v=e5TofulUhEg
 
 
 
+
+
+Bună ziua, copii minunați și pasionați de robotică!
+
+Astăzi, vreau să vă împărtășesc o poveste despre creativitate și posibilitățile nelimitate pe care le oferă domeniul roboticii. Sunteți aici pentru a explora lumea fascinantă a roboților, iar eu vreau să vă arăt cum creativitatea voastră poate da naștere unor inovații uimitoare.
+
+Pentru a începe, hai să vorbim despre un exemplu concret de cum putem combina creativitatea cu tehnologia în domeniul robotică. Imaginați-vă că sunteți acasă și doriți să vă controlați lumina cu ajutorul smartphone-ului vostru. Cum ați face asta? Cu puțină creativitate și cunoștințe de bază în robotică, puteți să construiți un sistem de iluminat controlat prin Bluetooth.
+
+Haideți să privim acest lucru în acțiune. Aici, avem un bec obișnuit, dar cu o mică diferență: este echipat cu un modul Bluetooth. Prin intermediul unei aplicații simple pe smartphone, puteți să-l porniți sau să-l opriți de la distanță, să reglați intensitatea luminii sau să schimbați culoarea becului. Este un exemplu simplu, dar foarte eficient, al creativității în acțiune în domeniul robotică.
+
+Acum, vă întrebați, cum se poate transforma această pasiune pentru robotică într-o carieră? Ei bine, lumea robotică oferă o gamă largă de oportunități. De exemplu, puteți deveni ingineri sau dezvoltatori de software specializați în robotică, lucru care vă permite să creați roboți care să facă tot felul de sarcini utile. De asemenea, puteți deveni designeri de interfață, care să dezvolte aplicații prietenoase cu utilizatorul pentru controlul roboților.
+
+Dar există și o altă direcție în care puteți merge: robotică industrială. Această ramură se ocupă cu dezvoltarea și implementarea roboților în fabrici și procesele industriale. Pentru a vă face o idee mai clară despre această carieră, vă voi prezenta acum un videoclip scurt despre cum arată viața unui inginer de robotică industrială.
+
+[Prezentarea videoclipului]
+
+Așadar, dragi copii, viitorul este strălucit pentru cei pasionați de robotică. Cu creativitatea voastră și cunoștințele pe care le veți acumula în acest domeniu, veți putea contribui la dezvoltarea tehnologiei și la crearea unui viitor mai bun.
+
+Închei cu un sfat: nu vă fie frică să visați și să explorați. Cu multă muncă și dedicare, puteți să realizați lucruri mari în domeniul robotică. Haideți să facem roboții să devină prietenii noștri în aventura noastră către viitorul tehnologic!
+
+Mulțumesc pentru atenție și mult succes în călătoria voastră în lumea robotică!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Astăzi, vreau să vă vorbesc despre lumea minunată a roboticelor, și fac asta cu mare entuziasm și bucurie, deoarece suntem pe cale să începem o aventură extraordinară împreună! În această clasă, nu vom vorbi doar despre roboți, circuite și coduri. Vom descoperi împreună o lume plină de creativitate și posibilități nelimitate.
 
 Stați liniștiți, nu trebuie să fiți experți sau să știți deja totul despre roboți. Aceasta este o șansă pentru fiecare dintre voi să învățați, să explorați și să vă descoperiți pasiunea pentru tehnologie și inovație. Indiferent dacă sunteți înclinați spre știință, matematică, desen sau orice altceva, lumea robotică vă oferă un teren de joacă unde toată lumea poate să strălucească.
