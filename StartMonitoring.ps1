@@ -7,3 +7,4 @@ echo "Pushing changes  ..."
 $push = git push -u books master
 echo "Done."
 echo "If there's errors You should check if remote repo is added and variables[git.name, git.email] are configurated."
+cmd /c pause
