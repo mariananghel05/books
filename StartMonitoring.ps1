@@ -12,7 +12,7 @@
                 Add-content "C:\Users\Nikolas\Desktop\books\log.txt" -value $logline
                 $add = git add .
                 $commit = git commit -m "auto"
-                $push = git push -u origin master
+                $push = git push -u books master
                 Add-content $add -value $logline
                 Add-content $commit -value $logline
                 Add-content $push -value $logline
