@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden -file C:\iis_test.ps1
