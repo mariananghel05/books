@@ -2,3 +2,4 @@
 09/24/2023 20:36:33, Created, C:\Users\Nikolas\Desktop\books\log.txt
 09/24/2023 20:36:33, Changed, C:\Users\Nikolas\Desktop\books\log.txt
 09/24/2023 20:36:33, Changed, C:\Users\Nikolas\Desktop\books\.git
+09/24/2023 20:36:39, Changed, C:\Users\Nikolas\Desktop\books\.git\objects
